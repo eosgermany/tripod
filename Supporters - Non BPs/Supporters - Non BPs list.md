@@ -1,3 +1,2 @@
-1. 
-**Business name:**
+## 1. Business Name
 **Contact:**
