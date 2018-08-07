@@ -14,7 +14,7 @@ The purpose of the repo is to make BPs and non-BPs to contribute to the evelutio
 
     **logo-account_name.png**
 
-5. If you are a **non BP**, add your  **business name** into the **Supporters-Non BP list.md**the bp **logo** (180x180 .png) to Supporters-Non BP directory, which named by the **business name** for example:
+5. If you are a **non BP**, add your  **business name** into the **Supporters-Non BP list.md** the bp **logo** (180x180 .png) to Supporters-Non BP directory, which named by the **business name** for example:
 
     **logo-business_name.png**
 
