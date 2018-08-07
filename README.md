@@ -10,7 +10,7 @@ The purpose of the repo is to make BPs and non-BPs to contribute to the evelutio
 
 3. Create and switch to a new branch named by your **bp account name** or **business name**
 4. Update the **project_tripod.md**
-4. If you are a **BP**, add the bp logo (180x180 .png) to Supporters-BP directory, which named by the **EOS bp account name** for example:
+4. If you are a **BP**, add the bp logo (180x180 .png) to Supporters-BP directory, which named by the **bp account name** for example:
 
     **logo-$account_name.png**
 
