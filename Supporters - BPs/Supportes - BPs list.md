@@ -1,7 +1,5 @@
-1.
-**Name:** EOS Germany 
+## 1. EOS Germany
 **Contact:** contact@eosgermany.one
-2.
-**Name:** EOS Nairobi
+## 2. EOS Nairobi
 **Contact:** ?????
 
